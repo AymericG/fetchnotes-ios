@@ -1,7 +1,6 @@
 //
 //  Note.m
 //  Fetchnotes
-// just a test
 //
 // Common Public Attribution License Version 1.0. 
 // “The contents of this file are subject to the Common Public Attribution 
